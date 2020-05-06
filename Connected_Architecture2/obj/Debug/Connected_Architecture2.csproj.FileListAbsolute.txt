@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Connected_Architecture2\Connected_Architecture2\bin\Debug\Connected_Architecture2.exe.config
+C:\Users\LENOVO\source\repos\Connected_Architecture2\Connected_Architecture2\bin\Debug\Connected_Architecture2.exe
+C:\Users\LENOVO\source\repos\Connected_Architecture2\Connected_Architecture2\bin\Debug\Connected_Architecture2.pdb
+C:\Users\LENOVO\source\repos\Connected_Architecture2\Connected_Architecture2\obj\Debug\Connected_Architecture2.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Connected_Architecture2\Connected_Architecture2\obj\Debug\Connected_Architecture2.Form1.resources
+C:\Users\LENOVO\source\repos\Connected_Architecture2\Connected_Architecture2\obj\Debug\Connected_Architecture2.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Connected_Architecture2\Connected_Architecture2\obj\Debug\Connected_Architecture2.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Connected_Architecture2\Connected_Architecture2\obj\Debug\Connected_Architecture2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Connected_Architecture2\Connected_Architecture2\obj\Debug\Connected_Architecture2.exe
+C:\Users\LENOVO\source\repos\Connected_Architecture2\Connected_Architecture2\obj\Debug\Connected_Architecture2.pdb
